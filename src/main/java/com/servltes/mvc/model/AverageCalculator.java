@@ -1,4 +1,4 @@
-package com.servltes.mvc.model;
+package com.servltes.mvc.model; // Model
 
 public class AverageCalculator {
 
